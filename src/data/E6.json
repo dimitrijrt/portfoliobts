@@ -19,7 +19,7 @@
 		"category": "react",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
 		"pictures": [
-			"debug.webp"
+			"android.png"
 		],
 		"description": "Développement d’une application Android dont les données sont disponibles 100% hors-ligne. L'application permettra de gérer un carnet de santé numérique pour chaque animal, incluant des rappels pour leurs vaccins, traitements et rendez-vous vétérinaires. Le but est de rendre les données de cette application accessibles en mode 100% hors-ligne, assurant que les utilisateurs ont toujours accès aux informations les plus importantes de leurs animaux, peu importe où ils se trouvent.",
 		"github": "https://github.com/dimitrijrt/android-animal",
