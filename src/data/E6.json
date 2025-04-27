@@ -8,7 +8,7 @@
 		"pictures": [
 			"symfony.webp"
 		],
-		"description": "symfonydévelopement d'une application web pour gérer un catalogue en ligne et permettre aupersonnel de connaître l’état de chaque livre. Il a été décidé de créer cette application enPHP, grâce au framework Symfony.",
+		"description": "dévelopement d'une application web pour gérer un catalogue en ligne et permettre aupersonnel de connaître l’état de chaque livre. Il a été décidé de créer cette application enPHP, grâce au framework Symfony.",
 		"github": "https://github.com/dimitrijrt/biblioth-que",
 		"pdf": "debug.pdf"
 	},
