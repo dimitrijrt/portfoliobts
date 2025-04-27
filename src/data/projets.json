@@ -9,7 +9,7 @@
 		],
 		"description": "Réponse aux incidents à travers le Debogage d'une application web react. Puis redaction du cahier de recette.",
 		"github": "https://github.com/dimitrijrt/Projet10DEBUG",
-		"pdf": "debug.pdf"
+		"pdf": "https://drive.google.com/file/d/1otbq88yqqt2FiwTgazjbZZB4voJDGPv7/view?usp=drive_link"
 	},
 	
 	{
@@ -21,8 +21,10 @@
 		"pictures": [
 			"gestion.webp"
 		],
-		"description": "https://drive.google.com/file/d/1otbq88yqqt2FiwTgazjbZZB4voJDGPv7/view?usp=drive_link",
-		"pdf": ""
+		"description": "planification du développement du site web / veille technologique pour rester informé des dernières tendances et technologies pertinentes pour le projet / rédaction des spécifications techniques du projet. Cela comprendra l'identification des besoins fonctionnels et la décomposition des fonctionnalités en tâches spécifiques. Utilisation d'un outil de gestion de projet comme Notion pour organiser le projet et créer un tableau Kanban.",
+
+
+		"pdf": "https://drive.google.com/drive/folders/1FojEqKDYvv0BEujL8FI2Z-SGZ8O_hhk1?usp=drive_link"
 		
 		
 	},
@@ -35,7 +37,7 @@
 		],
 		"description": "Audit interne du PCA pour une application web hébergée dans le cloud ( rapport de tests de performance , evaluation chiffrée de l'hébergement du service WEb dans Azure.",
 		
-		"pdf": "choco.pdf"
+		"pdf": "https://drive.google.com/file/d/1zUgB6kc9uEOk64RdgAjALuBtgGdZBr1z/view?usp=sharing"
 	},
 	{
 			"id": "b9123946",
@@ -49,7 +51,7 @@
 			"name": "Della Case",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
 		},
-		"pdf": "glpi1.pdf",
+		"pdf": "https://drive.google.com/file/d/1S50rD0o6vhHUafL491tFC4dxtP1FK7Tm/view?usp=sharing",
 		"category": "html & css"
 
 	},
@@ -67,7 +69,7 @@
 			"picture": "seo.webp"
 		},
 		"github": "https://dimitrijrt.github.io/Projet9SEO/",
-		"pdf": "rapportseo.pdf"
+		"pdf": "https://drive.google.com/drive/folders/1upY0GnJRIYW3irVi43CEl7zsJ24uNEcA?usp=sharing"
 	},
 	{
 		"id": "b9123946",
