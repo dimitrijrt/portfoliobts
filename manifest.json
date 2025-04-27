@@ -1,0 +1,41 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "sophiebluel.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "ohmyfood.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "argentbank.webp",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "bookie.webp",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+     {
+      "src": "seo.webp",
+      "type": "image/png",
+      "sizes": "120x120"
+    }
+
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
