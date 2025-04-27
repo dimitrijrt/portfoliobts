@@ -1,0 +1,88 @@
+[
+{
+		"id": "b9123946",
+		"title": "Implémentez le front-end d'une application bancaire avec React",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
+		"pictures": [
+			"argentbank.webp"
+		],
+		"description": "Création de l’application web complète et responsive avec React.Utilisation de Redux pour gérer le state de l'ensemble de l'application.",
+		"host": {
+			"name": "Della Case",
+			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
+		},
+		"github": "https://github.com/dimitrijrt/ArgentBank-website"
+	},
+	
+
+	
+    {
+		"id": "b9123946",
+		"title": "Création d'une page web dynamique d'une architecte avec JavaScript",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
+		"pictures": [
+			"sophiebluel.png"
+		],
+		"description": "Vous travaillez comme développeur front-end pour l’agence ArchiWebos qui comprend 50 salariés. Ayant terminé votre dernier projet avec un peu d'avance, vous êtes envoyé en renfort comme développeur front-end d’une équipe qui travaille sur la conception du site portfolio d’une architecte d’intérieur.",
+		"host": {
+			"name": "Della Case",
+			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
+		},
+		"github": "https://github.com/dimitrijrt/sitejs2.1pro",
+		"pdf": "applicconsole.pdf"
+	},
+    
+      {
+		"id": "b9123946",
+		"title": "Création d'une application web de location immobilière avec React",
+		"category": "react",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
+		"pictures": [
+			"kasa.webp"
+		],
+		"description": "Kasa vous recrute en tant que développeur front-end en freelance pour développer sa nouvelle plateforme web.Démarrer le projet React et développer l’ensemble de l’application, les composants React, les routes React Router, en suivant les maquettes Figma.",
+		"host": {
+			"name": "Della Case",
+			"picture": "kasa.webp"
+		},
+		"github": "https://github.com/dimitrijrt/Projet7React",
+		"pdf": "applicconsole.pdf"
+	},
+	
+	
+	
+	{
+		"id": "b9123946",
+		"title": "Premier projet Javascript pour améliorer le site d'une imprimerie",
+		"category": "react",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
+		"pictures": [
+			"jsfirst.webp"
+		],
+		"description": "Profitez du charme de la vie parisienne dans un magnifique appartement. A 3 minutes à pied du Canl Saint Martin, vous serez proche des transports, mais également de nombreux commerces. L'appartement est tout équipé, et possède également un parking pour ceux qui souhaitent se déplacer en voiture.",
+		"host": {
+			"name": "Della Case"
+			
+		},
+		"github": "https://github.com/dimitrijrt/jd-projet-4"
+	},
+	
+	
+	 {
+		"id": "b9123946",
+		"title": "Amélioration l'interface d'un site mobile avec des animations CSS",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
+		"pictures": [
+			"ohmyfood.png"
+		],
+		"description": "Votre mission est de développer un site “mobile first” pour mobile, tablette et desktop qui répertorie les menus de restaurants gastronomiques.",
+		"host": {
+			"name": "Della Case",
+			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
+		},
+		"github": "https://dimitrijrt.github.io/OP4.3/",
+		"pdf": "applicconsole.pdf",
+		"category": "html & css"
+
+	}
+]

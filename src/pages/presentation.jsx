@@ -93,46 +93,7 @@ function Presentation() {
          </div>
         
         <Home/>
-        <div className='parcours'>
-                <h3>Parcours</h3>
-              </div> 
-        <div className='cardcv' id="parcours">
         
-         
-          <div className='year'>
-            
-            <h4>2022-2023</h4>
-            <div className='txt'>
-               <p>- Formation Développeur front-end Openclassroom</p>
-               <p>-Hack the box certification pentester junior</p>
-            </div>
-          </div>
-          <div className='year'>
-             <h4>2021-2022</h4>
-            <div className='txt'>
-                
-           <p>- BTS SIO 2ème année</p>
-           <p>- Stage analyse réseau</p>
-           </div>
-          </div>
-          <div className='year'>
-            
-            <h4>2020-2021</h4>
-            <div className='txt'>
-             <p>- BTS SIO 1ère année </p>
-             <p>- Stage développement web</p>
-             <p>- Service civique</p>
-             </div>
-          </div>
-          <div className='year'>
-           
-              <h4>2019-2020</h4>
-             <div className='txt'>
-              <p>- Bac s / sportif de haut niveau</p>
-            </div>
-          </div>
-        
-        </div>
     </div>
     
     

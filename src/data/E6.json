@@ -1,0 +1,28 @@
+[
+    
+	{
+		"id": "b9123946",
+		"title": "Site d'une bibliothèque en Symfony",
+		"category": "react",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
+		"pictures": [
+			"debug.webp"
+		],
+		"description": ".......",
+		"github": "https://github.com/dimitrijrt/biblioth-que",
+		"pdf": "debug.pdf"
+	},
+
+    {
+		"id": "b9123946",
+		"title": "Application Android",
+		"category": "react",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
+		"pictures": [
+			"debug.webp"
+		],
+		"description": "Réponse aux incidents à travers le Debogage d'une application web react. Puis redaction du cahier de recette.",
+		"github": "https://github.com/dimitrijrt/android-animal",
+		"pdf": "debug.pdf"
+	}
+]
