@@ -46,7 +46,7 @@
 		"pictures": [
 			"glpi.webp"
 		],
-		"description": "Votre mission est de développer un site “mobile first” pour mobile, tablette et desktop qui répertorie les menus de restaurants gastronomiques.",
+		"description": "Votre responsable d’équipe vous demande de configurer les autorisations à accorder aux utilisateurs en fonction des accès dont ils ont besoin dans le logiciel de gestion d’incidents GLPI ( saisie, gestion,lecture...).",
 		"host": {
 			"name": "Della Case",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
@@ -70,6 +70,18 @@
 		},
 		"github": "https://dimitrijrt.github.io/Projet9SEO/",
 		"pdf": "https://drive.google.com/drive/folders/1upY0GnJRIYW3irVi43CEl7zsJ24uNEcA?usp=sharing"
+	},
+	{
+		"id": "b9123946",
+		"title": "Site d'une bibliothèque en Symfony",
+		"category": "react",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
+		"pictures": [
+			"symfony.webp"
+		],
+		"description": "dévelopement d'une application web pour gérer un catalogue en ligne et permettre aupersonnel de connaître l’état de chaque livre. Il a été décidé de créer cette application enPHP, grâce au framework Symfony.",
+		"github": "https://github.com/dimitrijrt/biblioth-que",
+		"pdf": "https://drive.google.com/file/d/1YEUnkY6olx6HP-hOhUtL_roCnNt82OM-/view?usp=drive_link"
 	},
 	{
 		"id": "b9123946",
