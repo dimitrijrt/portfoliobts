@@ -1,7 +1,7 @@
 [
 	{
 		"id": "b9123946",
-		"title": "Débugage du site d'une agence d'événementiel en React ( compétences : B1.1, B1.3 )",
+		"title": "Débugage du site d'une agence d'événementiel en React ( compétences : B1.2, B1.5 )",
 		"category": "react",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
 		"pictures": [
@@ -14,7 +14,7 @@
 	
 	{
 		"id": "b9123946",
-		"title": "Veille et Planification du développement d'un site client de restauration ( compétence : B1.4, B1.6 ) ",
+		"title": "Veille et Planification du développement d'un site client de restauration ( compétence : B1.3, B1.4, B1.6 ) ",
 		"category": "react",
 		
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
@@ -41,7 +41,7 @@
 	},
 	{
 			"id": "b9123946",
-		"title": "Mettre en place les habilitations d’accès des utilisateurs au logiciel de gestion d’incidents GLPI ( compétence : B1.1, B1.5 )",
+		"title": "Mettre en place les habilitations d’accès des utilisateurs au logiciel de gestion d’incidents GLPI ( compétences : B1.1, B1.5 )",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
 		"pictures": [
 			"glpi.webp"
@@ -58,7 +58,7 @@
    
 	{
 		"id": "b9123946",
-		"title": "SEO Optimisez le référencement d'un site de photographe ( compétence B1.3 )",
+		"title": "SEO Optimisez le référencement d'un site de photographe ( compétence B1.3, B1.2)",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
 		"pictures": [
 			"seo.webp"
@@ -73,7 +73,7 @@
 	},
 	{
 		"id": "b9123946",
-		"title": "Site d'une bibliothèque en Symfony",
+		"title": "Site d'une bibliothèque en Symfony ( compétences B1.1, B1.3 , B1.4, B1.5 )",
 		"category": "react",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
 		"pictures": [
@@ -85,7 +85,7 @@
 	},
 	{
 		"id": "b9123946",
-		"title": "Création d'une application web de location immobilière avec React",
+		"title": "Création d'une application web de location immobilière avec React B1.6",
 		"category": "react",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
 		"pictures": [
