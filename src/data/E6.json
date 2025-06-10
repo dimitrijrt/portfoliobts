@@ -10,7 +10,7 @@
 		],
 		"description": "dévelopement d'une application web pour gérer un catalogue en ligne et permettre aupersonnel de connaître l’état de chaque livre. Il a été décidé de créer cette application enPHP, grâce au framework Symfony.",
 		"github": "https://github.com/dimitrijrt/biblioth-que",
-		"pdf": "https://drive.google.com/file/d/1YEUnkY6olx6HP-hOhUtL_roCnNt82OM-/view?usp=drive_link"
+		"pdf": "https://drive.google.com/file/d/1yF2neuGV_Ycsb2wuTkyJrk6jYHYMKmDs/view?usp=sharing"
 	},
 
     {
@@ -23,6 +23,7 @@
 		],
 		"description": "Développement d’une application Android dont les données sont disponibles 100% hors-ligne. L'application permettra de gérer un carnet de santé numérique pour chaque animal, incluant des rappels pour leurs vaccins, traitements et rendez-vous vétérinaires. Le but est de rendre les données de cette application accessibles en mode 100% hors-ligne, assurant que les utilisateurs ont toujours accès aux informations les plus importantes de leurs animaux, peu importe où ils se trouvent.",
 		"github": "https://github.com/dimitrijrt/android-animal",
-		"pdf": ""
+		"pdf": "https://drive.google.com/file/d/1YEUnkY6olx6HP-hOhUtL_roCnNt82OM-/view?usp=drive_link"
+		
 	}
 ]
