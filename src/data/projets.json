@@ -82,23 +82,8 @@
 		"description": "dévelopement d'une application web pour gérer un catalogue en ligne et permettre aupersonnel de connaître l’état de chaque livre. Il a été décidé de créer cette application enPHP, grâce au framework Symfony.",
 		"github": "https://github.com/dimitrijrt/biblioth-que",
 		"pdf": "https://drive.google.com/file/d/1YEUnkY6olx6HP-hOhUtL_roCnNt82OM-/view?usp=drive_link"
-	},
-	{
-		"id": "b9123946",
-		"title": "Création d'une application web de location immobilière avec React ( B1.6 )",
-		"category": "react",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
-		"pictures": [
-			"kasa.webp"
-		],
-		"description": "Kasa vous recrute en tant que développeur front-end en freelance pour développer sa nouvelle plateforme web.Démarrer le projet React et développer l’ensemble de l’application, les composants React, les routes React Router, en suivant les maquettes Figma.",
-		"host": {
-			"name": "Della Case",
-			"picture": "kasa.webp"
-		},
-		"github": "https://github.com/dimitrijrt/Projet7React",
-		"pdf": "https://drive.google.com/file/d/1jCGgGs2bFptlFqOswqY7fbMTPSXq5AXe/view?usp=sharing"
 	}
+	
 	
 	
    
